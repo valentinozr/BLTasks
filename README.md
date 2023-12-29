@@ -5,7 +5,7 @@ BLTasks is an app coded in Lua used for basic tasks!
 
 ## How To Use
 First you need to install Lua from [here](https://lua.org/download.html).
-Then just run
+Then just run this in your terminal
 ```powershell
   lua UserName\FileLocation\bltasks.lua
 ```
