@@ -1,5 +1,5 @@
 
-![alt text](https://imgur.com/gallery/uN9EQ0s)
+![Logo](https://imgur.com/gallery/uN9EQ0s)
 
 # BLTasks (Basic Lua Tasks)
 
