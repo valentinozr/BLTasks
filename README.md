@@ -1,5 +1,5 @@
 
-![Logo](https://imgur.com/gallery/uN9EQ0s)
+![Logo](https://i.imgur.com/O6TdFZa.png)
 
 # BLTasks (Basic Lua Tasks)
 
@@ -51,4 +51,7 @@ Prints the version.
 ```powershell
   version
 ```
+
+###Notice
+Please remember that this app is solely for fun.
   
