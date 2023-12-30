@@ -1,6 +1,8 @@
 
 ![Logo](https://i.imgur.com/O6TdFZa.png)
 
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
 # BLTasks (Basic Lua Tasks)
 
 BLTasks is an app coded in Lua used for basic tasks!
