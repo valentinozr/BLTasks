@@ -52,6 +52,5 @@ Prints the version.
   version
 ```
 
-###Notice
-Please remember that this app is solely for fun.
+
   
